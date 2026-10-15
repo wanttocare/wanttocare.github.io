@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wanttocare.github.io/sitemap.xml
